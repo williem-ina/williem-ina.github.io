@@ -54,7 +54,7 @@ Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
 ### Conferences
 - [<b>Light field depth estimation on off-the-shelf mobile GPU</b>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Ivan_Light_Field_Depth_CVPR_2018_paper.pdf)<br/>
 Andre Ivan, <b>Williem</b>, and In Kyu Park <br/>
-<b>IEEE Workshop on Embedded Computer Vision (in conjunction with CVPR 2018), 2018. </b> <br/><img src="https://github.com/williem-ina/williem-ina.github.io/blob/master/images/ivan_cvpr2018.png?raw=true"  height="70px" width=auto />
+<b>IEEE Workshop on Embedded Computer Vision (in conjunction with CVPR 2018), 2018. </b> <br/><img src="https://github.com/williem-ina/williem-ina.github.io/blob/master/images/ivan_cvpr2018.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Visual-inertial RGB-D SLAM for mobile augmented reality</b>](http://image.inha.ac.kr/paper/PCM2017_Williem.pdf)<br/>
 <b>Williem</b>, Andre Ivan, Hochang Seok, Jongwoo Lim, Kuk-Jin Yoon, Ikhwan Cho, and In Kyu Park<br/>
