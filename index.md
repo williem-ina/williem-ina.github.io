@@ -10,6 +10,7 @@ My research problem focuses on computer vision, computational photography, and i
 - Email : name@verihubs.com
 - [Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)
 
+
 ## Publications
 
 ### Journals
@@ -58,45 +59,60 @@ Andre Ivan, <b>Williem</b>, and In Kyu Park <br/>
 
 - [<b>Visual-inertial RGB-D SLAM for mobile augmented reality</b>](http://image.inha.ac.kr/paper/PCM2017_Williem.pdf)<br/>
 <b>Williem</b>, Andre Ivan, Hochang Seok, Jongwoo Lim, Kuk-Jin Yoon, Ikhwan Cho, and In Kyu Park<br/>
-<b>Pacific-Rim Conference on Multimedia, 2017.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width=auto />
+<b>Pacific-Rim Conference on Multimedia, 2017.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Feature Descriptors for 4D Light Field Images</b>](http://image.inha.ac.kr/paper/FCV2017Jonathan.pdf) <br/>
 Jonathan Samuel Lumentut, <b>Williem</b>, and In Kyu Park<br/>
-<b>Japan-Korea Workshop on Frontiers of Computer Vision, 2017.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/jonathan_fcv2017.png?raw=true"  height="70px" width=auto />
+<b>Japan-Korea Workshop on Frontiers of Computer Vision, 2017.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/jonathan_fcv2017.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Robust light field depth estimation for noisy scene with occlusion</b>](http://image.inha.ac.kr/paper/CVPR2016_Williem.pdf) <br/>
 <b>Williem</b> and In Kyu Park<br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition, 2016.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width=auto />
+<b>IEEE Conference on Computer Vision and Pattern Recognition, 2016.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_cvpr2016.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Depth map estimation and colorization of anaglyph images using local color prior and reverse intensity distribution</b>](http://image.inha.ac.kr/paper/ICCV2015_Williem.pdf) <br/>
 <b>Williem</b>, Ramesh Raskar, and In Kyu Park<br/>
-<b>IEEE International Conference on Computer Vision, 2015.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width=auto />
-
+<b>IEEE International Conference on Computer Vision, 2015.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_iccv2015?raw=true"  height="70px" width="auto" />
 
 - [<b>Correcting photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/CVPRW_19_final.pdf) <br/>
 Christian Simon, <b>Williem</b>, Jihwan Choe, Il Dong Yun, and In Kyu Park<br/>
-<b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width=auto />
+<b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/simon_cvprw2014.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Fast and robust perspective rectification of document images on smartphone</b>](http://image.inha.ac.kr/paper/CVPRW_Perspective_Final.pdf) <br/>
 <b>Williem</b>, Christian Simon, Sungdae Cho, and In Kyu Park<br/>
-<b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width=auto />
+<b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_cvprw2014.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Memory-efficient belief propagation in stereo matching on GPU</b>](http://image.inha.ac.kr/paper/apsipa2012choi.pdf) <br/>
 Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
-<b>APSIPA Annual Summit and Conference, 2012.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width=auto />
+<b>APSIPA Annual Summit and Conference, 2012.</b> <br/><img src="https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/youngkyu_apsipa2012.png?raw=true"  height="70px" width="auto" />
+
+### Patents
+- [<b>라이트필드 깊이 영상 추정 방법 및 장치 (Method and Apparatus for Depth Image Estimation of Light Fields )</b>](https://patents.google.com/patent/KR101992527B1/en?oq=KR101992527B1)<br/>
+ 박인규, ​<b>윌리엄</b><br/>
+<b>KR101992527B1, 2019년 6월 24일 등록.</b>
+
+- [<b>강인한 라이트필드 깊이 영상 추정 방법 및 장치 (Method and Apparatus for Robust Depth Image Estimation of Light Fields)</b>](https://patents.google.com/patent/KR101968406B1/en?oq=(KR101968406B1))<br/>
+ 박인규, ​<b>윌리엄</b><br/>
+<b>KR101968406B1, 2019년 4월 11일 등록.</b>
+
+- [<b>라이트필드 깊이 영상 추정 방법 및 장치 (Method and system on deep self-guided cost aggregation for stereo matching)</b>](https://patents.google.com/patent/KR101957089B1/en?oq=KR101957089B1)<br/>
+ 박인규, ​<b>윌리엄</b><br/>
+<b>KR101957089B1, 2019년 3월 11일 등록.</b>
+
+- [<b>애너글리프 영상 복원 및 깊이 지도 생성 방법 및 시스템 (Method and System for Generating Anaglyph Image Reconstruction and Depth Map)</b>](https://patents.google.com/patent/KR101655036B1/en?oq=KR101655036B1)<br/>
+ 박인규, 정준영,​ <b>윌리엄</b><br/>
+<b>KR101655036B1, 2016년 9월 7일 등록.</b>
 
 
-## Awards
-- Top Reviewer ECCV 2020
-- Top Reviewer ECCV 2020
-- Top Reviewer ECCV 2020
+## Awards and Fellowship
+- Top Reviewer in ECCV (2020)
+- Best Presenter in The 3rd ICCSCI, Indonesia (2018)
+- Erasmus+ International Credit Mobility for Students and Staff Awardees (2018)
+- Outstanding Researcher Award, Inha University (2017)
+- 우수학생논문상 2017년도 대한전자공학회 하계종합학술대회 (2017)
+- Best Paper Award in The 23th Japan-Korea Workshop on Frontiers of Computer Vision (2017)
+- 우수학생논문상 제28회 영상처리 및 이해에 관한 워크샵 (2016)
 - Jungseok Scholarship 2011-2016
 
 ## Program Committee / Reviewer:
-- CVPR
-- ICCV
-- ECCV
-- ACCV
-- AAAI
-- TIP
-- TPAMI
+- Conference: CVPR, ICCV, ECCV, ACCV, AAAI
+- Journal: TIP, TPAMI, EURASIP Journal on Image and Video Processing, IET Computer Vision
