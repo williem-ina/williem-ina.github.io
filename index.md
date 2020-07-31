@@ -1,12 +1,20 @@
-## Background
-
-Williem
+## Williem
 
 I have been the CEO and Cofounder of Verihubs, since June 2019.
 I received my B.CompSc. degree in computer science from Bina Nusantara University, Indonesia, in 2011. Then, I obtained my Ph.D. degree in information and communication engineering from Inha University, Korea, in August 2017. Since September 2017, I have been serving as a faculty member in School of Computer Science, Bina Nusantara University, Indonesia.
 
-My research problem focuses on computer vision, computational photography, and image processing.
+My research problem focuses on computer vision, computational photography, and image processing, which are as follows but not limited to:
+- Stereo matching
+- Light field depth Estimation
+- Light field synthesis
+- Image enhancement
+- GPGPU computation
+- SLAM
+- Face recognition
+- License plate recognition
+- License plate detection
 
+Link and Email:
 - Email : name@verihubs.com
 - [Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)
 
@@ -103,14 +111,16 @@ Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 <b>2016-09-07 - Publication of KR101655036B1</b>
 
 
-## Awards and Fellowship
+## Achievements
 - Top Reviewer in ECCV (2020)
-- Best Presenter in The 3rd ICCSCI, Indonesia (2018)
-- Erasmus+ International Credit Mobility for Students and Staff Awardees (2018)
-- Outstanding Researcher Award, Inha University (2017)
-- 우수학생논문상 (Best Student Paper Award) 2017년도 대한전자공학회 하계종합학술대회 (2017)
-- Best Paper Award in The 23th Japan-Korea Workshop on Frontiers of Computer Vision (2017)
-- 우수학생논문상 (Best Student Paper Award) 제28회 영상처리 및 이해에 관한 워크샵 (2016)
+- [Pioneer Winner (2020)] (https://pioneer.app/blog/meet-the-pioneers-february-2020/)
+- [Best Presenter in The 3rd ICCSCI, Indonesia (2018)] (https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award2.jpg)
+- [Erasmus+ International Credit Mobility for Students and Staff Awardees (2018)] (http://alliance4universities.eu/wp-content/uploads/2018/06/)
+Selection-results-for-staff-PhD-and-Bachelor-Master.pdf)
+- [Outstanding Researcher Award, Inha University (2017)] (https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award1.jpg)
+- []우수학생논문상 (Best Student Paper Award) 2017년도 대한전자공학회 하계종합학술대회 (2017)] (https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award3.jpg)
+- [Best Paper Award in The 23th Japan-Korea Workshop on Frontiers of Computer Vision (2017)] (http://image.inha.ac.kr/wp-content/uploads/2017/08/Fcv2017-2.jpg)
+- [우수학생논문상 (Best Student Paper Award) 제28회 영상처리 및 이해에 관한 워크샵 (2016)] (http://image.inha.ac.kr/wp-content/uploads/2017/08/IPIUaward_2.jpg)
 - International Jungseok Scholarship, Inha University (2011-2016)
 
 ## Program Committee / Reviewer:
