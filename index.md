@@ -113,14 +113,13 @@ Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 
 ## Achievements
 - Top Reviewer in ECCV (2020)
-- [Pioneer Winner (2020)] (https://pioneer.app/blog/meet-the-pioneers-february-2020/)
-- [Best Presenter in The 3rd ICCSCI, Indonesia (2018)] (https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award2.jpg)
-- [Erasmus+ International Credit Mobility for Students and Staff Awardees (2018)] (http://alliance4universities.eu/wp-content/uploads/2018/06/)
-Selection-results-for-staff-PhD-and-Bachelor-Master.pdf)
-- [Outstanding Researcher Award, Inha University (2017)] (https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award1.jpg)
-- []우수학생논문상 (Best Student Paper Award) 2017년도 대한전자공학회 하계종합학술대회 (2017)] (https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award3.jpg)
-- [Best Paper Award in The 23th Japan-Korea Workshop on Frontiers of Computer Vision (2017)] (http://image.inha.ac.kr/wp-content/uploads/2017/08/Fcv2017-2.jpg)
-- [우수학생논문상 (Best Student Paper Award) 제28회 영상처리 및 이해에 관한 워크샵 (2016)] (http://image.inha.ac.kr/wp-content/uploads/2017/08/IPIUaward_2.jpg)
+- [Pioneer Winner (2020)](https://pioneer.app/blog/meet-the-pioneers-february-2020/)
+- [Best Presenter in The 3rd ICCSCI, Indonesia (2018)](https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award2.jpg)
+- [Erasmus+ International Credit Mobility for Students and Staff Awardees (2018)](http://alliance4universities.eu/wp-content/uploads/2018/06/Selection-results-for-staff-PhD-and-Bachelor-Master.pdf)
+- [Outstanding Researcher Award, Inha University (2017)](https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award1.jpg)
+- []우수학생논문상 (Best Student Paper Award) 2017년도 대한전자공학회 하계종합학술대회 (2017)](https://raw.githubusercontent.com/williem-ina/williem-ina.github.io/master/images/award3.jpg)
+- [Best Paper Award in The 23th Japan-Korea Workshop on Frontiers of Computer Vision (2017)](http://image.inha.ac.kr/wp-content/uploads/2017/08/Fcv2017-2.jpg)
+- [우수학생논문상 (Best Student Paper Award) 제28회 영상처리 및 이해에 관한 워크샵 (2016)](http://image.inha.ac.kr/wp-content/uploads/2017/08/IPIUaward_2.jpg)
 - International Jungseok Scholarship, Inha University (2011-2016)
 
 ## Program Committee / Reviewer:
