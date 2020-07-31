@@ -1,68 +1,106 @@
-# 2020 Progress Bar (50%)
-![img](https://pbs.twimg.com/media/Eb4Rg4AWoAceNRE?format=jpg&name=small)
+## Background
 
+Williem
 
-## Sometimes Working on AI
+I have been the CEO and Cofounder of Verihubs, since June 2019.
+I received my B.CompSc. degree in computer science from Bina Nusantara University, Indonesia, in 2011. Then, I obtained my Ph.D. degree in information and communication engineering from Inha University, Korea, in August 2017. Since September 2017, I have been serving as a faculty member in School of Computer Science, Bina Nusantara University, Indonesia.
 
-Christian Simon Shen
+My research problem focuses on computer vision, computational photography, and image processing.
 
-Hi, I am a PhD student at the Australian National University.
-My research problem focuses on meta-learning, life-long learning, continual-learning, and their applications. 
+- Email : name@verihubs.com
+- [Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)
 
-I incline to solve and describe the problems from these perspectives: representation learning, optimization, and geometry.
-Entia non sunt multiplicanda praeter necessitatem.
-
-- Email : first.last@anu.edu.au  
-- [Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)
-
-
-## Sometimes Randomly Cite a Nice Quote
-
-> Educating the mind without educating the heart is no education at all. - Aristotle (384 - 322 BC)
-
-
-
-## Sometimes Write Papers
-### Preprints
-- C. Simon, P. Koniusz, L. Petersson, Y. Han, M. Harandi, "... Label Noise," Pre-print. 
+## Publications
 
 ### Journals
-- [<b>Reflection removal under fast forward camera motion</b>](http://image.inha.ac.kr/wp-content/uploads/2017/07/TIP2017Cheong.pdf)<br/>
-J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
-<b>IEEE Transaction on Image Processing (TIP), 2018.</b>
+- [<b>Joint light field spatial and angular super-resolution from a single Image</b>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9119124)<br/>
+Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
+<b>IEEE Access, 2020.</b>
 
--  [<b>Correcting geometric and photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)<br/>
- <b>C. Simon</b>, Williem, and I. K. Park<br/>
-<b>Journal of Electronic Imaging (JEI), 2015.</b>
+- [<b>6-DOF motion blur synthesis and performance evaluation of light field deblurring</b>](http://image.inha.ac.kr/paper/MTAP2019Jonathan.pdf)<br/>
+ Jonathan Samuel Lumentut, <b>Williem</b>, and In Kyu Park<br/>
+<b>Multimedia Tools and Applications, 2019.</b>
+
+- [<b>Robust light ﬁeld depth estimation using occlusion-noise aware data costs</b>](http://image.inha.ac.kr/paper/TPAMI2018WIlliem.pdf)<br/>
+ <b>Williem</b>, In Kyu Park, and Kyoung Mu Lee<br/>
+<b>IEEE Trans. on Pattern Analysis and Machine Intelligence, 2018.</b>
+
+- [<b>Cost aggregation benchmark for light field depth estimation</b>](http://image.inha.ac.kr/paper/JVCI2018Williem.pdf)<br/>
+ <b>Williem</b> and In Kyu Park<br/>
+<b>Journal of Visual Communication and Image Representation, 2018.</b>
+
+- [<b>Deep self-guided cost aggregation for stereo matching</b>](http://image.inha.ac.kr/paper/PRL2018Williem.pdf)<br/>
+ <b>Williem</b> and In Kyu Park<br/>
+<b>Pattern Recognition Letters, 2018.</b>
+
+- [<b>Spatio-angular consistent editing framework for 4D light field images</b>](http://image.inha.ac.kr/wp-content/uploads/2017/07/MTAP2016Williem.pdf)<br/>
+ <b>Williem</b>, Ki Won Shon, and In Kyu Park<br/>
+<b>Multimedia Tools and Applications, 2016.</b>
+
+
+- [<b>Correcting geometric and photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)<br/>
+ Christian Simon, <b>Williem</b>, and In Kyu Park<br/>
+<b>Journal of Electronic Imaging, 2015.</b>
+
+- [<b>Object-oriented framework for real-time image processing on GPU</b>](http://image.inha.ac.kr/paper/MTAP2013Nicolas.pdf)<br/>
+ Nicolas Seiller, <b>Williem</b>, Nitin Singhal, and In Kyu Park<br/>
+<b>Multimedia Tools and Applications, 2014.</b>
+
+- [<b>Accurate and real-time depth video acquisition using Kinect-stereo camera fusion</b>](http://image.inha.ac.kr/paper/MTAP2013Nicolas.pdf)<br/>
+ Nicolas Seiller, <b>Williem</b>, Nitin Singhal, and In Kyu Park<br/>
+<b>Multimedia Tools and Applications, 2014.</b>
+
+Williem, Yu-Wing Tai, and In Kyu Park (corresponding author), “,” Optical Engineering, vol. 53, no. 4, 043110, April 2014. http://image.inha.ac.kr/paper/OE201404_Williem.pdf
+
+
+
 
 ### Conferences
-- [<b>On Modulating the Gradient for Meta-Learning</b>](https://chrysts.github.io)<br/>
-<b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi <br/>
-<b>European Conference on Computer Vision (ECCV), 2020. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="250px" />
+- [<b>Light field depth estimation on off-the-shelf mobile GPU</b>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Ivan_Light_Field_Depth_CVPR_2018_paper.pdf)<br/>
+Andre Ivan, <b>Williem</b>, and In Kyu Park <br/>
+<b>IEEE Workshop on Embedded Computer Vision (in conjunction with CVPR 2018), 2018. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="250px" />
 
-- [<b>Adaptive subspaces for few-shot learning</b>](http://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)<br/>
-<b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi<br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg?raw=true"  height="85px" width="270px" /> 
+- [<b>Visual-inertial RGB-D SLAM for mobile augmented reality</b>](http://image.inha.ac.kr/paper/PCM2017_Williem.pdf)<br/>
+<b>Williem</b>, Andre Ivan, Hochang Seok, Jongwoo Lim, Kuk-Jin Yoon, Ikhwan Cho, and In Kyu Park<br/>
+<b>Pacific-Rim Conference on Multimedia, 2017.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg?raw=true"  height="85px" width="270px" />
+
+- [<b>Robust light field depth estimation for noisy scene with occlusion</b>](http://image.inha.ac.kr/paper/FCV2017Jonathan.pdf) <br/>
+Jonathan Samuel Lumentut, <b>Williem/b>, and In Kyu Park<br/>
+<b>Japan-Korea Workshop on Frontiers of Computer Vision, 2017.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" />
+
+- [<b>Robust light field depth estimation for noisy scene with occlusion</b>](http://image.inha.ac.kr/paper/CVPR2016_Williem.pdf) <br/>
+<b>Williem</b> and In Kyu Park<br/>
+<b>IEEE Conference on Computer Vision and Pattern Recognition, 2016.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" />
+
+- [<b>Depth map estimation and colorization of anaglyph images using local color prior and reverse intensity distribution</b>](http://image.inha.ac.kr/paper/ICCV2015_Williem.pdf) <br/>
+<b>Williem</b>, Ramesh Raskar, and In Kyu Park<br/>
+<b>IEEE International Conference on Computer Vision, 2015.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" />
 
 
+- [<b>Correcting photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/CVPRW_19_final.pdf) <br/>
+Christian Simon, <b>Williem</b>, Jihwan Choe, Il Dong Yun, and In Kyu Park<br/>
+<b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" />
 
+- [<b>Fast and robust perspective rectification of document images on smartphone</b>](http://image.inha.ac.kr/paper/CVPRW_Perspective_Final.pdf) <br/>
+<b>Williem</b>, Christian Simon, Sungdae Cho, and In Kyu Park<br/>
+<b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" />
 
-- [<b>Reflection removal for in-vehicle black box videos</b>](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf) [[Video]](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing) <br/>
-<b>C. Simon</b> and I. K. Park <br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" /> 
+- [<b>Memory-efficient belief propagation in stereo matching on GPU</b>](http://image.inha.ac.kr/paper/apsipa2012choi.pdf) <br/>
+Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
+<b>APSIPA Annual Summit and Conference, 2012.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" />
+
 
 ## Awards
-- Outstanding Reviewer ICCV 2019 [URL](http://iccv2019.thecvf.com/best_reviewers)
-- Data61 Scholarship 2019~
-- AGRTP Australian National University 2018~
-- Jungseok Scholarship 2013-2015
+- Top Reviewer ECCV 2020
+- Top Reviewer ECCV 2020
+- Top Reviewer ECCV 2020
+- Jungseok Scholarship 2011-2016
 
 ## Program Committee / Reviewer:
-- Neurips
 - CVPR
 - ICCV
-- WACV
+- ECCV
+- ACCV
 - AAAI
 - TIP
-
-
+- TPAMI
