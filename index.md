@@ -60,6 +60,10 @@ Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
 
 
 ### Conferences
+- [<b>Face Mask Invariant End-to-End Face Recognition</b>](https://rlq-tod.github.io/)<br/>
+I Putu Agi Karasugi and <b>Williem</b> <br/>
+<b>ECCV Workshop on Real-world Computer Vision from Inputs with Limited Quality (in conjunction with ECCV 2020), 2020. </b> <br/><img src="https://github.com/williem-indonesia/williem-indonesia.github.io/blob/master/images/rlqeccv2020.png?raw=true"  height="70px" width="auto" />
+
 - [<b>Light field depth estimation on off-the-shelf mobile GPU</b>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Ivan_Light_Field_Depth_CVPR_2018_paper.pdf)<br/>
 Andre Ivan, <b>Williem</b>, and In Kyu Park <br/>
 <b>IEEE Workshop on Embedded Computer Vision (in conjunction with CVPR 2018), 2018. </b> <br/><img src="https://github.com/williem-indonesia/williem-indonesia.github.io/blob/master/images/ivan_cvpr2018.png?raw=true"  height="70px" width="auto" />
