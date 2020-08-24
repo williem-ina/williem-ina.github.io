@@ -115,7 +115,7 @@ Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 
 
 ## Achievements
-- Top 215 Reviewer in ECCV (2020)
+- Top 215 Reviewer in ECCV (Top 7.6% from 2830 reviewers) (2020)
 - [Pioneer Winner (2020)](https://pioneer.app/blog/meet-the-pioneers-february-2020/)
 - [Best Presenter in The 3rd ICCSCI, Indonesia (2018)](https://raw.githubusercontent.com/williem-indonesia/williem-indonesia.github.io/master/images/award2.jpg)
 - [Erasmus+ International Credit Mobility for Students and Staff Awardees (2018)](http://alliance4universities.eu/wp-content/uploads/2018/06/Selection-results-for-staff-PhD-and-Bachelor-Master.pdf)
