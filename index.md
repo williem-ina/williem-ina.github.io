@@ -1,6 +1,6 @@
 ## Williem
 
-I have been the CEO and Cofounder of Verihubs, since June 2019.
+I have been the CTO and Cofounder of Verihubs, since June 2019.
 I received my B.CompSc. degree in computer science from Bina Nusantara University, Indonesia, in 2011. Then, I obtained my Ph.D. degree in information and communication engineering from Inha University, Korea, in August 2017. Since September 2017, I have been serving as a faculty member in School of Computer Science, Bina Nusantara University, Indonesia.
 
 My research problem focuses on computer vision, computational photography, and image processing, which are as follows but not limited to:
