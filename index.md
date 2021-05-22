@@ -1,7 +1,8 @@
 ## Williem
 
-I have been the CTO and Cofounder of Verihubs, since June 2019.
-I received my B.CompSc. degree in computer science from Bina Nusantara University, Indonesia, in 2011. Then, I obtained my Ph.D. degree in information and communication engineering from Inha University, Korea, in August 2017. Since September 2017, I have been serving as a faculty member in School of Computer Science, Bina Nusantara University, Indonesia.
+Hi, I am Williem, a CTO and Cofounder of Verihubs, since June 2019.
+I obtained my Ph.D. degree in information and communication engineering from Inha University, Korea, in August 2017.
+
 
 My research problem focuses on computer vision, computational photography, and image processing, which are as follows but not limited to:
 - Stereo matching
@@ -115,7 +116,8 @@ Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 
 
 ## Achievements
-- Top 215 Reviewer in ECCV (Top 7.6% from 2830 reviewers) (2020)
+- [Outstanding Reviewers in CVPR (2021)] (http://cvpr2021.thecvf.com/node/184)
+- [Top 215 Reviewer in ECCV (Top 7.6% from 2830 reviewers) (2020)] (https://eccv2020.eu/outstanding-reviewers/)
 - [Pioneer Winner (2020)](https://pioneer.app/blog/meet-the-pioneers-february-2020/)
 - [Best Presenter in The 3rd ICCSCI, Indonesia (2018)](https://raw.githubusercontent.com/williem-indonesia/williem-indonesia.github.io/master/images/award2.jpg)
 - [Erasmus+ International Credit Mobility for Students and Staff Awardees (2018)](http://alliance4universities.eu/wp-content/uploads/2018/06/Selection-results-for-staff-PhD-and-Bachelor-Master.pdf)
